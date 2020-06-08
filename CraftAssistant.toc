@@ -1,0 +1,7 @@
+## Interface: 40200
+## Title: _UM: Craft Assistant
+## Notes: R706771842841 - Please, donate for the development of the project. Thanks!
+## Author: Uladzimir Miadzinski
+## Version 0.1
+
+CraftAssistant.lua
